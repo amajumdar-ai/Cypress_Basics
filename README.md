@@ -27,3 +27,15 @@ How to launch the Test Runner-
 3. to run all the test cases present under the example Folder through terminal with launching the browser - ./node_modules/.bin/cypress run --headed
 4. to run the test cases in a specific browser- ./node_modules/.bin/cypress run --browser chrome
 
+Cypress- Xpath:
+Adds XPath command to Cypress.io test runner
+
+Install with npm
+
+<npm install -D cypress-xpath>
+
+Install with Yarn
+
+<yarn add cypress-xpath --dev>
+
+	
